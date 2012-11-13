@@ -1,10 +1,7 @@
-# Translation of ru.po to Russian
+# Translation of uk.po to Ukrainian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 #
-# Alexandre Prokoudine <avp@altlinux.ru>, 2003.
-# Mihail Zenkov <kreator@tut.by>, 2006.
-# Sergey Maslennikov <qqq1971@mail.ru>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: uk\n"
