@@ -1,4 +1,4 @@
-# This is a russian translation for Sunflower file manager.
+# This is a ukrainian translation for Sunflower file manager.
 # Copyright (C) 2012
 # This file is distributed under the same license as the sunflower-fm package.
 # FIRST AUTHOR kondratiev.work@gmail.com, 2011.
@@ -9,8 +9,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-20 13:39+0200\n"
 "PO-Revision-Date: 2012-08-20 13:39+0200\n"
-"Last-Translator: Andrij Kondratiev <kondratiev.work@gmail.com>\n"
-"Language-Team: Ukrainian <kondratiev.work@gmail.com>\n"
+"Last-Translator: Andrij Kondratiev <h0st@ukr.net>\n"
+"Language-Team: Ukrainian <h0st@ukr.net>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
