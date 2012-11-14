@@ -1834,7 +1834,7 @@ msgid "Automatically _build VBR map"
 msgstr "Автоматично створювати карту VBR"
 #: Avidemux/ADM_userInterfaces/ADM_commonUI/DIA_prefs.cpp: 196
 msgid "Automatically _rebuild index"
-msgstr "Автоматично пересоздавать індекс"
+msgstr "Автоматично перебудоувати індекс"
 #: Avidemux/ADM_userInterfaces/ADM_commonUI/DIA_prefs.cpp: 197
 msgid "Automatically remove _packed bitstream"
 msgstr "Автоматично видаляти упакований потік"
