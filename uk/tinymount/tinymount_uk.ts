@@ -134,6 +134,16 @@ p, li { white-space: pre-wrap; }
         <translation>Повідомляти про монтування пристроїв</translation>
     </message>
     <message>
+        <location filename="../settingsdialog.ui" line="111"/>
+        <source>Unmount actions</source>
+        <translation>Дії при розмонтуванні</translation>
+    </message>
+    <message>
+        <location filename="../settingsdialog.ui" line="117"/>
+        <source>Detach devices after unmount</source>
+        <translation>Відключити пристрій</translation>
+    </message>
+    <message>
         <location filename="../settingsdialog.cpp" line="19"/>
         <source>Use system notifications</source>
         <translation>Використовувати системні сповіщення</translation>
